@@ -1,2 +1,3 @@
-# Ashish-demo-
-My first repository 
+# Ashish-demo
+My first Git repository  
+Author- Ashish kumar 
